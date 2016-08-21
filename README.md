@@ -9,6 +9,6 @@ Possible overview of a rendered maze :
 
 ## Things to fix
 - Comments in english.
-- Alogrithms
+- Algorithms
 - Simplification (especially less function arguments)
 - Better use of types/structures
