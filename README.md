@@ -8,7 +8,7 @@ Possible overview of a rendered maze :
 
 
 ## Things to fix
-- Comments in english.
-- Algorithms
+- Replace french by english
+- Algorithms (the perfect maze generation is ugly and unbalanced)
 - Simplification (especially less function arguments)
 - Better use of types/structures
